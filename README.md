@@ -1,4 +1,4 @@
-# Documentación Técnica – Automatización de Web Scraping y ETL
+Automatización de Web Scraping y ETL
 
 ## 1. Introducción
 
