@@ -198,7 +198,7 @@ Limitaciones:
 
 ---
 
-### 5.2 Apache Airflow (Recomendado)
+### 5.2 Una Plataforma de workflows (Apache Airflow,Google Cloud Composer,ETC)
 
 * Convertir el script en un DAG
 * Programación diaria
