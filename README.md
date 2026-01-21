@@ -10,6 +10,6 @@ Se recopila información de:
 - Valoración
 - Disponibilidad en stock
 
-Los datos se exportan a CSV, JSON y opcionalmente SQLite.
+Los datos se exportan a CSV, JSON y SQLite.
 ----
 
