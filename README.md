@@ -40,9 +40,9 @@ web_scraping_books/
 
 ### 2.3 Instalación de Dependencias
 
-Se recomienda el uso de un entorno virtual para aislar las dependencias del proyecto.
+En este caso es opcional pero se podria hacer uso de un entorno virtual para aislar las dependencias del proyecto en su defecto ignorar el Paso 1 y Continuar con el Paso 2
 
-#### Paso 1: Crear entorno virtual (opcional pero recomendado)
+#### Paso 1: Crear entorno virtual (opcional)
 
 ```bash
 python -m venv venv
@@ -64,6 +64,7 @@ source venv/bin/activate
 
 #### Paso 2: Instalar dependencias
 
+#### Abrir un CMD en la ruta correspondiente y  correr el siguiente comando
 ```bash
 pip install -r requirements.txt
 ```
